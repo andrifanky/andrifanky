@@ -1,5 +1,18 @@
 ### Hi, I'm [Andri Fanky](http://andrifanky.com/links) 👋
 
+<a href="https://www.linkedin.com/in/andri-fanky-kurniawan">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/andrifanky">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/andri.fanky">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br/>
+<br/>
+
 - 🌱 I’m currently learning more about Flutter and Laravel
 - 💬 Ask me about Flutter or any tech-related stuff
 - 📫 How to reach me: [Instagram - @andri.fanky](https://instagram.com/andri.fanky), [Email](mailto:andryfanky3@gmail.com)
