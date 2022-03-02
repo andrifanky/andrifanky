@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm [Andri Fanky](http://andrifanky.com/links) 👋
 - 👋 I'm @andrifanky
 - 🌱 I’m currently learning flutter and laravel
 - 📫 How to reach me: [Email](mailto:andryfanky3@gmail.com)
