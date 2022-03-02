@@ -1,7 +1,7 @@
 ### Hi there 👋
-👋 I'm @andrifanky
-🌱 I’m currently learning flutter and laravel
-📫 How to reach me: email andryfanky3@gmail.com
+- 👋 I'm @andrifanky
+- 🌱 I’m currently learning flutter and laravel
+- 📫 How to reach me: email andryfanky3@gmail.com
 
 <!--
 **andrifanky/andrifanky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
