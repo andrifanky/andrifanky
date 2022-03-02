@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning more about Flutter and Laravel
 - 💬 Ask me about Flutter or any tech-related stuff
-- 📫 How to reach me: [Instagram](https://instagram.com/andri.fanky), [Email](mailto:andryfanky3@gmail.com)
+- 📫 How to reach me: [Instagram - @andri.fanky](https://instagram.com/andri.fanky), [Email](mailto:andryfanky3@gmail.com)
 
 <!--
 **andrifanky/andrifanky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
